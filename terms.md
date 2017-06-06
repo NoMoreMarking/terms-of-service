@@ -16,7 +16,7 @@ These Terms of Service apply only to the No More Marking system.  The No More Ma
 
 __Here’s a brief summary of the things that we think are particularly important, both in terms of Our key commitments to You and Your responsibilities as a platform user:__
 
-#### You agree to:
+__You agree to:__
 
 * Only connect to the No More Marking system with the authorisation of the person with data protection responsibilities within your school (a role commonly referred to as ‘data protection lead’, likely to be the head teacher or a senior leader)
 * Retain Your responsibility as the Data Controller, and comply with the legal responsibilities it brings, over the data held within the platform, including its accuracy and completeness
@@ -24,14 +24,14 @@ __Here’s a brief summary of the things that we think are particularly importan
 * Only connect to the platform if You are able to do so in accordance with the Data Protection Act
 * Have full responsibility for who You choose to share Your data with, and not connect to any third party applications unless satisfied with their terms and conditions, and the privacy policies which govern them
 
-#### You agree not to:
+__You agree not to:__
 
 * Copy or share any of Our tools or content
 * Use Our Intellectual Property (code, trademarks or other material) without Our consent
 * Do anything which adversely affects the security of the system, for example infecting it with viruses, Trojan horses or other similar harmful components that could affect or delay delivery of our services
 * Access, attempt to access, or inspect any data for which You do not have permission
 
-#### We agree to:
+__We agree to:__
 
 * Process the data received from You for the purposes of education and school improvement only, and only for those purposes necessary to provide the service explicitly offered to You
 * Adhere strictly to the terms of the Data Protection Act 1998 and any future amendments or applicable legislation
@@ -47,7 +47,7 @@ __Here’s a brief summary of the things that we think are particularly importan
 * Report any breaches of security to The Data Controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the Data Controller, to Data Subjects
 * Make Terms of Service and Privacy Policies clearly and publicly available on our website
 
-#### We agree not to:
+__We agree not to:__
 
 * Store or transport personal or sensitive data outside of the EEA or outside of countries which are granted to have [Adequate Levels of Protection](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission
 * Share Your data with any third parties except where explicitly requested by you or required by law.
