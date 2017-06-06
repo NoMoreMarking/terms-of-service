@@ -1,5 +1,3 @@
-# Glossary of Terms
-
 __This document defines the terms we use throughout our [Terms and Conditions](https://www.nomoremarking.com/terms), [Privacy Statement](https://www.nomoremarking.com/privacy) and other No More Marking documents:__
 
 __Data Controller:__ the person, or organisation, who determines the purposes for which and the manner in which any personal data is processed.  With respect to the No More Marking systwm the Data Controller is the School who connects to the Assembly Platform.

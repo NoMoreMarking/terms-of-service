@@ -1,5 +1,3 @@
-# Privacy Statement
-
 This statement underpins the policies, promises and contracts we make with schools relating to the education data that Assembly processes.
 
 In conjunction with this document, you should read the [Glossary of Terms](https://www.nomoremarking.com/glossary) used within this statement, and also elsewhere on our site.
