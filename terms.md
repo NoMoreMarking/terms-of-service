@@ -77,7 +77,9 @@ __6. Disclaimer of Warranties:__  You accept that tools are provided on an “as
 
 __7. Liability:__  We shall not, under any circumstances, be liable to You, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with this agreement for: loss of profits, sales, business, or revenue (direct or indirect); business interruption; loss of anticipated savings; loss or corruption of data or information; loss of business opportunity, goodwill or reputation; or, any indirect or consequential loss or damage. We are not excluding liability for death or personal injury caused by negligence, breach of any implied term and any other matter for which it would unlawful to exclude liability.
 
-__8. Termination:__  We will suspend or restrict Your access to Our services if We have reason to believe You may have breached the conditions of this agreement.
+__8. Use of Images:__ Images uploaded to Us are the property of No More Marking Ltd. We reserves the right to share images collected for Sharing Standards and Progress to GCSE English with selected partners for research and marketing purposes.  No pupil or school identifiers associated with the images will be shared.  No More Marking Ltd. will not share images or publish images that are not part of Sharing Standards, Proof of Progress or Progress to GCSE English with any other party without first seeking the consent of the account holder.
+
+__9. Termination:__  We will suspend or restrict Your access to Our services if We have reason to believe You may have breached the conditions of this agreement.
 
 #### Security and Privacy
 
