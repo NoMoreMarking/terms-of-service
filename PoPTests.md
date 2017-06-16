@@ -27,7 +27,7 @@ The Customer may terminate the Agreement at any time by providing notice in writ
 - Cancellation after the baseline test but before the summer progress test: school fee (100%) and pupil fees (50%)
 - Cancellation after the summer progress test: school fee (100%) and pupil fees (100%)
 
-__Refunds__
+__Self-Judged Refunds__
 - 100% before September 1st of the academic year
 - 0% after September 1st of the academic year
 
