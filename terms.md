@@ -71,7 +71,7 @@ __3. Ownership of IP:__  Unless We specifically designate an aspect of the Platf
 
 __4. Modification of Services:__  As an organisation that is constantly growing and improving, it may sometimes be necessary to modify Our services. We may occasionally pause or remove particular tools or services at Our sole discretion and we will give notice of any notifications before implementation where practicable or as soon afterwards as practicable.
 
-__5. Payment:__  No More Marking offers a combination of free and paid‐for services. Unless otherwise agreed in writing, paid‐for services are non‐refundable.
+__5. Payment:__  No More Marking offers a combination of free and paid‐for services. Unless otherwise agreed in writing, paid‐for services are non‐refundable.  Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract.
 
 __6. Disclaimer of Warranties:__  You accept that tools are provided on an “as is” and “as available” basis. They are provided without guarantees or warranties. No More Marking makes no guarantee that the website or any of the tools are error free or that access will be continuous and uninterrupted.
 
