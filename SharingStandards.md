@@ -24,6 +24,7 @@ The Customer acknowledges that all Intellectual Property Rights in the Sharing S
 
 ### TERMINATION AND CANCELLATION
 The Customer may terminate the Agreement at any time by providing notice in writing to NMM. NMM shall be able to terminate the Agreement if the Customer does not pay the Fees due under this Agreement or provide the information required by NMM to deliver the Services. On termination of the Agreement by either party, the following cancellation fees shall apply:
+- 75% refund if you contact us before 1st December of the relevant academic year if you're not happy with the service
 - 50% refund if you contact us before 1st January of the relevant academic year if you're not happy with the service
 - Cancellation after the December Sharing Standards Session of the relevant academic year: (100%)
 Any cancelation fees due to be paid by the Customer shall be paid within 30 days of termination of this Agreement.  Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract.
