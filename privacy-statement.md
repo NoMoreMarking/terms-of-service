@@ -74,7 +74,7 @@ Your child’s school remains the Data Controller of any pupil data we process. 
 
 __7. Cookies__
 
- A cookie is a string of information that a website stores on a visitor’s computer. Assembly uses cookies for purposes such as helping us to identify and track visitors’ usage and preferences. You can disable cookies in your browser if you wish to, although this may mean that some features of our website do not work as they should.
+ A cookie is a string of information that a website stores on a visitor’s computer. You can disable cookies in your browser if you wish to, although this may mean that some features of our website do not work as they should.
 
 __8. Communication__
 
