@@ -45,16 +45,13 @@ __3. Security and Encryption__
 
 We take every reasonable measure to ensure we store data securely. The platform is developed using secure technologies, which include, but are not limited to the following:
 
-* All personal and sensitive Assembly data is stored and transported within EU or countries which are granted to have [Adequate Levels of Protection](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission
-* All external data transmissions to and from the Assembly Platform are encrypted using modern SSL/TLS protocols and ciphers
+* All personal and sensitive data is stored and transported within EU or countries which are granted to have [Adequate Levels of Protection](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission
 * Encryption at rest i.e. when stored on a disk or laptop
 * Field level encryption in our database, where we feel it necessary to do so
 * We use encrypted passwords with variable permissions according to the user’s role are used for access to all sensitive information
 * All servers are situated in secure locations that comply with the Data Protection Act 1998
 
 __4. Staff access to data__
-
-Assembly does not look ‘under the hood’ or inspect any of the data we store.  The only exceptions to this are where a school has explicitly given us permission to inspect their data; for example, to provide technical support to correct a technical problem. This permission is given on an ‘as needed’ basis and the ability to access the data is revoked once the technical problem is resolved.
 
 All our staff are required to agree that they will abide by the Security and Data Protection Policy at all times and sign a Confidentiality and Non-Disclosure Agreement.  All staff and contractors are required to undergo an enhanced Disclosure and Barring Service (DBS) check.  From time to time we do use contractors who are not in the EU.  Where we do this we ensure that no data is stored or transported outside of the EU using appropriate and secure technologies.
 
