@@ -23,10 +23,8 @@ For all script images, the Customer agrees to give us the following permission: 
 The Customer acknowledges that all Intellectual Property Rights in the Sharing Standards assessments, results and analyses (“Licensed Materials”) related to the provision of the Services under this Agreement are the property of NMM or its licensors, as the case may be. The Customer shall have no rights in, or to, the Licensed Materials other than the right to use them in accordance with the express terms of this Agreement. NMM grants to the Customer a non-exclusive, non-transferable, revocable, licence to use the Licensed Materials for the term of this Agreement.
 
 ### TERMINATION AND CANCELLATION
-The Customer may terminate the Agreement at any time by providing notice in writing to NMM. NMM shall be able to terminate the Agreement if the Customer does not pay the Fees due under this Agreement or provide the information required by NMM to deliver the Services. On termination of the Agreement by either party, the following cancellation fees shall apply:
-- 75% refund if you contact us before 1st December of the relevant academic year if you're not happy with the service
-- 50% refund if you contact us before 1st January of the relevant academic year if you're not happy with the service
-- Cancellation after the December Sharing Standards Session of the relevant academic year: (100%)
+The Customer may terminate the Agreement at any time by providing notice in writing to NMM. NMM shall be able to terminate the Agreement if the Customer does not pay the Fees due under this Agreement or provide the information required by NMM to deliver the Services.
+Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract. 75% refund if you cancel your subscription no later than two weeks after the end of the first national judging session of your subscription.
 Any cancelation fees due to be paid by the Customer shall be paid within 30 days of termination of this Agreement.  Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract.
 
 ### MISCELANEOUS
