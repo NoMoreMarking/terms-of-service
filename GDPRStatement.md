@@ -5,7 +5,8 @@ their personal data, and creating a single data protection approach across Europ
 ### How will No More Marking comply with the GDPR?
 As part of the compliance process we are reviewing (and updating where necessary) all our internal processes, procedures, data systems and documentation to ensure that we are ready
 when GDPR comes into force in May 2018.
-*Our GDPR Principles are:*
+
+**Our GDPR Principles are:**
 * Data is processed fairly and lawfully
 * Data is processed only for specified and lawful purposes
 * Processed data is adequate, relevant and not excessive
