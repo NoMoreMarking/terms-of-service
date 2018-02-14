@@ -34,6 +34,6 @@ __Self-Judged Refunds__
 
 Any cancellation fees due to be paid by the Customer shall be paid within 30 days of termination of this Agreement.
 
-### MISCELANEOUS
+### MISCELLANEOUS
 No amendment or variation to this Agreement is valid unless it is in writing, signed by each of the parties or his authorised representative. Any obligation in this agreement intended to continue to have effect after termination or completion shall so continue. In the event of a dispute between the parties to this agreement, then they undertake to attempt to settle the dispute by engaging in good faith with the other in a process of mediation before commencing arbitration or litigation.
 The validity, construction and performance of this agreement shall be governed by the laws of England and Wales and the parties agree that any dispute arising from it shall be litigated only in England and Wales.

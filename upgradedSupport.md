@@ -16,5 +16,5 @@ The Customer acknowledges that all Intellectual Property Rights in the Sharing S
 ### TERMINATION AND CANCELLATION
 The Customer may terminate the Agreement at any time by providing notice in writing to NMM. NMM shall be able to terminate the Agreement if the Customer does not pay the Fees due under this Agreement or provide the information required by NMM to deliver the Services.  Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract.
 
-### MISCELANEOUS
+### MISCELLANEOUS
 No amendment or variation to this Agreement is valid unless it is in writing, signed by each of the parties or his authorised representative. Any obligation in this agreement intended to continue to have effect after termination or completion shall so continue. In the event of a dispute between the parties to this agreement, then they undertake to attempt to settle the dispute by engaging in good faith with the other in a process of mediation before commencing arbitration or litigation. The validity, construction and performance of this agreement shall be governed by the laws of England and Wales and the parties agree that any dispute arising from it shall be litigated only in England and Wales.
