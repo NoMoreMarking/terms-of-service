@@ -21,11 +21,8 @@ For all script images, the Customer agrees to give us the following permission: 
 The Customer acknowledges that all Intellectual Property Rights in the Assessing GCSE English assessments, results and analyses (“Licensed Materials”) related to the provision of the Services under this Agreement are the property of NMM or its licensors, as the case may be. The Customer shall have no rights in, or to, the Licensed Materials other than the right to use them in accordance with the express terms of this Agreement. NMM grants to the Customer a non-exclusive, non-transferable, revocable, licence to use the Licensed Materials for the term of this Agreement.
 
 ### TERMINATION AND CANCELLATION
-The Customer may terminate the Agreement at any time by providing notice in writing to NMM. NMM shall be able to terminate the Agreement if the Customer does not pay the Fees due under this Agreement or provide the information required by NMM to deliver the Services. On termination of the Agreement by either party, the following cancellation fees shall apply:
-- Cancellation before the training day: (50%)
-- Cancellation after the training day: (100%)
-Any cancelation fees due to be paid by the Customer shall be paid within 30 days of termination of this Agreement.  Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract.
-Early bird offer for Assessing GCSE English: You will be invoiced week beginning 12th November 2018.  If you opt out by 5th November 2018 you will not be charged.
+The Customer may terminate the Agreement at any time by providing notice in writing to NMM. NMM shall be able to terminate the Agreement if the Customer does not pay the Fees due under this Agreement or provide the information required by NMM to deliver the Services.
+Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract. Early bird offer for Assessing GCSE English: sign up by the end of June 2018 and you will be invoiced week beginning 12th November 2018.  If you opt out on or before 5th November 2018 you will not be charged.
 
 ### MISCELLANEOUS
 No amendment or variation to this Agreement is valid unless it is in writing, signed by each of the parties or his authorised representative. Any obligation in this agreement intended to continue to have effect after termination or completion shall so continue. In the event of a dispute between the parties to this agreement, then they undertake to attempt to settle the dispute by engaging in good faith with the other in a process of mediation before commencing arbitration or litigation.
