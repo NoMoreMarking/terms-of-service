@@ -34,11 +34,10 @@ __We:__
 __We DO NOT:__
 
 * Store or transport personal or sensitive data outside of the EU or outside of countries which are granted to have [Adequate Levels of Protection](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission
-* Share your data with any third parties except where explicitly requested by you or required by law.
+* Share data with third parties, except where explicitly requested by you or required by law, or for the purpose of providing a service or where there is a legitimate interest to do this
 * Use Your data for the purposes of advertising or marketing, or for any purpose other than the service explicitly provided to You
 * Transport personal data originating from schools in an unencrypted format
 * Claim ownership or exclusive rights over any of the data processed or created as part of services provided to You
-* Share information with other third parties except where specifically agreed by the Data Controller or where required by law
 * Change any applicable terms of service without giving You the opportunity to opt-out of such changes
 
 __3. Security and Encryption__

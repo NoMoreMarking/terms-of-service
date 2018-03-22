@@ -50,11 +50,10 @@ __We agree to:__
 __We agree not to:__
 
 * Store or transport personal or sensitive data outside of the EEA or outside of countries which are granted to have [Adequate Levels of Protection](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission
-* Share Your data with any third parties except where explicitly requested by you or required by law.
+* Share data with third parties, except where explicitly requested by you or required by law, or for the purpose of providing a service or where there is a legitimate interest to do this
 * Use Your data, made available via the No More Marking system, for the purposes of advertising or marketing, or for any purpose other than the service explicitly provided to You
 * Transport personal data originating from You in an unencrypted format
 * Claim ownership or exclusive rights over any of the data processed or created as part of services provided to You
-* Share information with other third parties except where specifically agreed by the Data Controller or where required by law
 * Change any applicable terms of service without giving You the opportunity to opt-out of such changes
 
 ## Detailed Terms of Service
@@ -77,7 +76,7 @@ __6. Disclaimer of Warranties:__  You accept that tools are provided on an “as
 
 __7. Liability:__  We shall not, under any circumstances, be liable to You, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with this agreement for: loss of profits, sales, business, or revenue (direct or indirect); business interruption; loss of anticipated savings; loss or corruption of data or information; loss of business opportunity, goodwill or reputation; or, any indirect or consequential loss or damage. We are not excluding liability for death or personal injury caused by negligence, breach of any implied term and any other matter for which it would unlawful to exclude liability.
 
-__8. Use of Images:__ Images uploaded to Us are the property of No More Marking Ltd. We reserves the right to share images collected for Sharing Standards, Proof of Progress and Progress to GCSE English with selected partners for research and marketing purposes.  No pupil or school identifiers associated with the images will be shared.  No More Marking Ltd. will not share images or publish images that are not part of Sharing Standards, Proof of Progress or Progress to GCSE English with any other party without first seeking the consent of the account holder.  Optimised images for reviewing and judging will be automatically removed after one year.
+__8. Use of Images:__ Images uploaded to Us are the property of No More Marking Ltd.  We reserves the right to share images collected for Assessing Primary Writing, Sharing Standards, Proof of Progress, Assessing GCSE English and Progress to GCSE English with selected partners for research and marketing purposes.  No pupil or school identifiers associated with the images will be shared.  No More Marking Ltd. will not share images or publish images that are not part of Assessing Primary Writing, Sharing Standards, Proof of Progress, Assessing GCSE English or Progress to GCSE English with any other party without first seeking the consent of the account holder.  Optimised images for reviewing and judging will be automatically removed after one year.
 
 __9. Termination:__  We will suspend or restrict Your access to Our services if We have reason to believe You may have breached the conditions of this agreement.
 
