@@ -90,5 +90,8 @@ We use third-party analytics services to help understand your usage of our servi
 
 ___Mailchimp___ data is stored in the US: their servers and offices are located in the United States, so your information may be transferred to, stored, or processed in the United States.  Information includes email address, contact name, interest in products, purchased products and DfE number.
 
+___Cloudinary___ 
+processes the scanned responses for candidates, images are stored in multiple locations (including outside the EU) to reduce latency.  Cloudinary's Privacy policy can be found at [https://cloudinary.com/privacy](https://cloudinary.com/privacy), GDPR details can be found at [https://cloudinary.com/blog/gdpr_the_what_the_when_the_why_and_how_cloudinary_is_preparing_for_day_0](https://cloudinary.com/blog/gdpr_the_what_the_when_the_why_and_how_cloudinary_is_preparing_for_day_0).
+
 ### Questions
 If you have any questions or grievances in relation to security or privacy, please email us on <support@nomoremarking.com>
