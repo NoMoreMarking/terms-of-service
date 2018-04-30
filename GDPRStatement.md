@@ -1,5 +1,5 @@
 ## GDPR Statement
-The EU General Data Protection Regulation (GDPR) is a significant piece of European legislation which will come
+The EU General Data Protection Regulation (GDPR) is a significant piece of European legislation which comes
 into force in May 2018. It builds on existing data protection laws, strengthening the rights that EU individuals have over
 their personal data, and creating a single data protection approach across Europe.
 ### How will No More Marking comply with the GDPR?
