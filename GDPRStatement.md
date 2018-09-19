@@ -16,4 +16,4 @@ As part of the compliance process we have reviewed all our internal processes, p
 * Data is not transferred to countries outside of the European Economic Area (‘EEA’) without adequate
 protection
 
-See also [Terms & Conditions](https://www.nomoremarking.com/terms), [Privacy Policy](https://www.nomoremarking.com/privacy) and [Cloud services Checklist](https://www.nomoremarking.com/CloudServicesChecklist.pdf).
+See also [Terms & Conditions](https://www.nomoremarking.com/terms), [Privacy Policy](https://www.nomoremarking.com/privacy)
