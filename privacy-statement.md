@@ -19,7 +19,7 @@ __2. Our Principles__
 __We:__
 
 * Process the data received from schools for the purposes of education and school improvement only, and only for those purposes necessary to provide the service explicitly offered to schools
-* Adhere strictly to the terms of the Data Protection Act 1998 and any future amendments or applicable legislation
+* Adhere strictly to the terms of the Data Protection Act 1998 and any future amendments or applicable legislation, including legislation arising from the General Data Protection Regulation (GDPR)
 * Only store and process the minimum data required to provide our services, and to inform you in advance of using any of our services what data that service requires.
 * Transport and store all personal data originating from schools using modern and best practice encryption technologies.  This includes Secure Socket Layers (SSL/TLS) for encrypted data transfer over the internet, field-level encryption for personally identifiable data and password-protected identities for all end users
 * Comply with all Subject Access Requests made relating to the data we store
@@ -48,7 +48,7 @@ We take every reasonable measure to ensure we store data securely. The platform 
 * Encryption at rest i.e. when stored on a disk or laptop
 * Field level encryption in our database, where we feel it necessary to do so
 * We use encrypted passwords with variable permissions according to the user’s role are used for access to all sensitive information
-* All servers are situated in secure locations that comply with the Data Protection Act 1998
+* All servers are situated in secure locations that comply with the Data Protection Act 1998 and any ensuing laws or regulations including the General Data Protection Regulation (GDPR)
 
 __4. Staff access to data__
 
