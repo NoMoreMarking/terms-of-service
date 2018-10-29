@@ -1,5 +1,5 @@
 ## Proof of Progress Terms & Conditions
-This agreement (“Agreement”) is made between No More Marking Ltd, Rocketdesk, Surrey University Research Park, 20 Nugent Road, Guildford GU2 7AF (“NMM”) and the school or other organisation identified on the registration form (“the Customer”). By agreeing to our terms and conditions you certify that you are an authorised representative of the Customer and that you have read, understood, and agree to be bound by the terms and conditions in this Agreement.
+This agreement (“Agreement”) is made between No More Marking Ltd, 26 Bridgemere Drive, Durham, DH1 5FG (“NMM”) and the school or other organisation identified on the registration form (“the Customer”). By agreeing to our terms and conditions you certify that you are an authorised representative of the Customer and that you have read, understood, and agree to be bound by the terms and conditions in this Agreement.
 
 ### PROVISION OF THE SERVICES
 NMM shall provide Proof of Progress Tests (“Services”) which include a paper- based baseline test, paper-based progress test, marking of the tests using comparative judgement and an analysis of the results for the school.

@@ -1,7 +1,7 @@
 ## Assessing Primary Writing Terms & Conditions
 
 ### TERMS AND CONDITIONS FOR ASSESSING PRIMARY WRITING
-This agreement (“Agreement”) is made between No More Marking Ltd, Rocketdesk, Surrey University Research Park, 20 Nugent Road, Guildford GU2 7AF (“NMM”) and the school or other organisation identified on the registration form (“the Customer”). By agreeing to our terms and conditions you certify that you are an authorised representative of the Customer and that you have read, understood, and agree to be bound by the terms and conditions in this Agreement.
+This agreement (“Agreement”) is made between No More Marking Ltd, 26 Bridgemere Drive, Durham, DH1 5FG (“NMM”) and the school or other organisation identified on the registration form (“the Customer”). By agreeing to our terms and conditions you certify that you are an authorised representative of the Customer and that you have read, understood, and agree to be bound by the terms and conditions in this Agreement.
 
 ### PROVISION OF THE SERVICES
 NMM shall provide Assessing Primary Writing (“Services”) which includes the provision of participation of the Customer in national Comparative Judgements sessions.
@@ -27,8 +27,7 @@ The Customer acknowledges that all Intellectual Property Rights in the Assessing
 
 ### TERMINATION AND CANCELLATION
 The Customer may terminate the Agreement at any time by providing notice in writing to NMM. NMM shall be able to terminate the Agreement if the Customer does not pay the Fees due under this Agreement or provide the information required by NMM to deliver the Services.
-Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract. 75% refund if you cancel your subscription no later than two weeks after the end of the first national judging session of your subscription.
-Any cancelation fees due to be paid by the Customer shall be paid within 30 days of termination of this Agreement.  Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract.
+Your subscription will be automatically renewed on an annual basis unless you contact us to cancel the contract.
 
 ### MISCELLANEOUS
 No amendment or variation to this Agreement is valid unless it is in writing, signed by each of the parties or his authorised representative. Any obligation in this agreement intended to continue to have effect after termination or completion shall so continue. In the event of a dispute between the parties to this agreement, then they undertake to attempt to settle the dispute by engaging in good faith with the other in a process of mediation before commencing arbitration or litigation.
