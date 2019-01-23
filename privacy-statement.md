@@ -93,5 +93,7 @@ ___Mailchimp___ data is stored in the US: their servers and offices are located 
 ___Cloudinary___ 
 processes the scanned responses for candidates, images are stored in multiple locations (including outside the EU) to reduce latency.  Cloudinary's Privacy policy can be found at [https://cloudinary.com/privacy](https://cloudinary.com/privacy), GDPR details can be found at [https://cloudinary.com/blog/gdpr_the_what_the_when_the_why_and_how_cloudinary_is_preparing_for_day_0](https://cloudinary.com/blog/gdpr_the_what_the_when_the_why_and_how_cloudinary_is_preparing_for_day_0).  See also Privacy Shield [https://cloudinary.com/privacy#section_privacy_shield](https://cloudinary.com/privacy#section_privacy_shield).
 
+___Assembly___ is a secure, cloud-based platform that connects to your school’s Management Information System (MIS) and extracts key elements of your school’s data and connects them to other applications. These applications allow you to extend, analyse and aggregate data you collect and store in school.  Candidate information extracted using Assembly: First & Last Name, Date of Birth, Gender, Year Group, Class Group and Pupil Premium.  For more information see [https://assembly.education/privacy](https://assembly.education/privacy).
+
 ### Questions
 If you have any questions or grievances in relation to security or privacy, please email us on <support@nomoremarking.com>
